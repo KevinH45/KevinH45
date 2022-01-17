@@ -1,2 +1,2 @@
 - Hi, I’m @KevinH45
-- I like working with machine-learning algorithms in Python.
+- Freshman in the Washington DC area.
