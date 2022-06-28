@@ -2,4 +2,4 @@
 - Freshman in the Washington DC area.
 
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinH45&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinH45&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
