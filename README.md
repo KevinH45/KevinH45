@@ -11,7 +11,7 @@
 - PrestoHacks 2021 - 1st Overall
 - HocoHacks 2020 - 1st Overall
 - CINT 2022 - 2nd Place
-- ACSL Finalist 2021-2022
+- ACSL 2021-2022 - Finalist
 
 ## GitHub Stats
 
