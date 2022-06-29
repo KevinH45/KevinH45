@@ -1,4 +1,6 @@
-# I'm really cool 
+# Welcome to my GitHub profile!
+- [LinkedIn](https://www.linkedin.com/in/kevin-hwang-8a7627219/)
+- [Devpost](https://devpost.com/-Kevin-)
 
 ## About Me
 - Hi, I’m @KevinH45 
@@ -9,7 +11,7 @@
 - PrestoHacks 2021 - 1st Overall
 - HocoHacks 2020 - 1st Overall
 - CINT 2022 - 2nd Place
-- Finalist at the American Computer Science League
+- ACSL Finalist 2021-2022
 
 ## GitHub Stats
 
