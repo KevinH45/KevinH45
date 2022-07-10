@@ -8,7 +8,7 @@
 
 ## Technical Skills
 - Experienced Languages: Python and Java
-- Less Experienced Languages: JavaScript, MATLAB, and R.
+- Less Experienced Languages: C, MATLAB, and R.
 - Experienced Libraries/Frameworks: Scikit-Learn (and data preprocessing libraries), Streamlit and Flask
 - Less Experienced Libraries/Frameworks: Discord.py (and forks), and Keras
 - Databases: SQLite and Postgresql
