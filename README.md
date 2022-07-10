@@ -6,6 +6,14 @@
 - Hi, I’m @KevinH45 
 - High schooler near Baltimore interested in machine learning and web development.
 
+## Technical Skills
+- Experienced Languages: Python and Java
+- Less Experienced Languages: JavaScript, MATLAB, and R.
+- Experienced Libraries/Frameworks: Scikit-Learn (and data preprocessing libraries), Streamlit and Flask
+- Less Experienced Libraries/Frameworks: Discord.py (and forks), and Keras
+- Databases: SQLite and Postgresql
+- Dev Tools: Git CLI, GitHub, VSCode and PyCharm
+
 ## Hackathons and Competitive Programming
 - HackUMBC 2021 - 2nd Place
 - PrestoHacks 2021 - 1st Overall
