@@ -10,7 +10,7 @@
 - Experienced Languages: Python and Java
 - Less Experienced Languages: C, MATLAB, and R.
 - Experienced Libraries/Frameworks: Scikit-Learn (and data preprocessing libraries), Streamlit and Flask
-- Less Experienced Libraries/Frameworks: Discord.py (and forks), and Keras
+- Less Experienced Libraries/Frameworks: Discord.py and Keras
 - Databases: SQLite and Postgresql
 - Dev Tools: Git CLI, GitHub, Postman VSCode and PyCharm
 
