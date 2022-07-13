@@ -1,6 +1,5 @@
 # Welcome to my GitHub profile!
-- [LinkedIn](https://www.linkedin.com/in/kevin-hwang-8a7627219/)
-- [Devpost](https://devpost.com/-Kevin-)
+
 
 ## About Me
 - Hi, I’m @KevinH45 
