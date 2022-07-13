@@ -3,7 +3,7 @@
 
 ## About Me
 - Hi, I’m @KevinH45 
-- High schooler near Baltimore interested in machine learning and web development.
+- High schooler interested in machine learning and web development.
 
 ## Technical Skills
 - Experienced Languages: Python and Java
