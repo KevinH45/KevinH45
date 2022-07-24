@@ -6,12 +6,10 @@
 - High schooler interested in machine learning and web development.
 
 ## Technical Skills
-- Experienced Languages: Python and Java
-- Less Experienced Languages: C, MATLAB, and R.
-- Experienced Libraries/Frameworks: Scikit-Learn (and data preprocessing libraries), Streamlit and Flask
-- Less Experienced Libraries/Frameworks: Discord.py and Keras
+- Languages: Python, Java, and R
+- Libraries/Frameworks: Scikit-Learn (and data preprocessing libraries), Streamlit and Flask
 - Databases: SQLite and Postgresql
-- Dev Tools: Git CLI, GitHub, Postman VSCode and PyCharm
+- Dev Tools: Git CLI, GitHub, Postman, VSCode and PyCharm
 
 ## Hackathons and Competitive Programming
 - HackUMBC 2021 - 2nd Place
