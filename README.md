@@ -8,7 +8,7 @@
 ## Technical Skills
 - Languages: Python, Java, and R
 - Libraries/Frameworks: Scikit-Learn (and data preprocessing libraries), Streamlit and Flask
-- Databases: SQLite and Postgresql
+- Databases: Firebase, SQLite and Postgresql
 - Dev Tools: Git CLI, GitHub, Postman, VSCode and PyCharm
 
 ## Hackathons and Competitive Programming
