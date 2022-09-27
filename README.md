@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile!
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=32&color=FFFFFF&lines=Kevin+Hwang)
 
 
 ## About Me
