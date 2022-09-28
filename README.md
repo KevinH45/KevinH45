@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=32&color=FFFFFF&lines=Kevin+Hwang)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=32&color=FFFFFF&lines=Hi+,+it+'+s+Kevin)
 
 
 ## About Me
