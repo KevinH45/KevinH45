@@ -12,12 +12,12 @@
 - Dev Tools: Git CLI, GitHub, Postman, VSCode and PyCharm
 
 ## Hackathons and Competitive Programming
-- HackUMBC 2021 - 2nd Place
-- PrestoHacks 2021 - 1st Overall
-- HocoHacks 2020 - 1st Overall
-- Centennial Informatics Tournament 2022 - 2nd Place
-- ACSL 2021-2022 - Finalist
-- SLINGSHOT Verified
+- [HackUMBC 2021](https://devpost.com/software/adventure-addict) - 2nd Place
+- [PrestoHacks 2021](https://devpost.com/software/in-season) - 1st Overall
+- [HocoHacks 2020](https://devpost.com/software/genetic-algorithm-for-student-grouping-gasg) - 1st Overall
+- [Centennial Informatics Tournament 2022](https://cint.info/) - 2nd Place
+- [ACSL 2021-2022](https://www.acsl.org/) - Finalist
+- [SLINGSHOT](https://slingshotahead.com/) Verified
 
 ## Experience
 - Director of Python Curriculum Development at Neuracode, an educational non-profit with a focus on machine-learning
