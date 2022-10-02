@@ -20,8 +20,8 @@
 - [SLINGSHOT](https://slingshotahead.com/) Verified
 
 ## Experience
-- Director of Python Curriculum Development at Neuracode, an educational non-profit with a focus on machine-learning
-- Programmer for Robotiators 888, a FIRST Robotics Team
+- Director of Python Curriculum Development at Neuracode, an educational non-profit with a focus on machine-learning.
+- Programmer for Robotiators 888, a FIRST Robotics Team.
 
 ## Contact Me:
 - Email me at greenbrown489@gmail.com
