@@ -24,6 +24,10 @@
 - Director of Python Curriculum Development at Neuracode, an educational non-profit with a focus on machine-learning.
 - Programmer for Robotiators 888, a FIRST Robotics Team.
 
+## What I'm Working On:
+- Learning PyTorch
+- Preparing for USACO
+
 ## Contact Me:
 - Email me at greenbrown489@gmail.com
 - Send me a message on Discord at GreenBrown#1374
