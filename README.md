@@ -8,7 +8,7 @@
 ## Technical Skills
 - Languages: Python, Java, and R
 - Libraries/Frameworks: Scikit-Learn (and data preprocessing libraries), Streamlit and Flask
-- Databases: Firebase(RTDB and Firestore), SQLite and Postgresql
+- Databases: Firebase(RTDB and Firestore), SQLite and PostgreSQL
 - Dev Tools: Git CLI, GitHub, Postman, VSCode and PyCharm
 
 ## Hackathons and Competitive Programming
@@ -26,7 +26,7 @@
 - Programmer for Robotiators 888, a FIRST Robotics Team.
 
 ## What I'm Working On:
-- Learning PyTorch
+- Learning SQL
 - Preparing for USACO
 
 ## Contact Me:
