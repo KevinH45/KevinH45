@@ -16,7 +16,7 @@
 - [PrestoHacks 2021](https://devpost.com/software/in-season) - 1st Overall
 - [HocoHacks 2020](https://devpost.com/software/genetic-algorithm-for-student-grouping-gasg) - 1st Overall
 - [Give Back Hacks 3](https://devpost.com/software/local-connect) - Best Social Good Hack
-- [SpreadLOVE Hackathon](https://devpost.com/software/local-connect) - First Overall, Best Web Hosted Project
+- [Spark2Code SpreadLOVE Hackathon](https://devpost.com/software/local-connect) - First Overall, Best Web Hosted Project
 - [Centennial Informatics Tournament 2022](https://cint.info/) - 2nd Place
 - [ACSL 2021-2022](https://www.acsl.org/) - Finalist
 - [SLINGSHOT](https://slingshotahead.com/) Verified
