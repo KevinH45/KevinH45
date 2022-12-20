@@ -31,4 +31,5 @@
 - Send me a message on Discord at GreenBrown#1374
 
 ## GitHub Stats
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinH45&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KevinH45&show_icons=true&theme=synthwave">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinH45&show_icons=true&theme=synthwave&layout=compact"
