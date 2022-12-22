@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=32&color=FFFFFF&lines=Hey!+I'm+Kevin.)
-
+![](https://komarev.com/ghpvc/?username=KevinH45&style=for-the-badge&label=PROFILE+VIEWS)
 
 ## About Me
 - Hi, I’m @KevinH45 
