@@ -20,6 +20,7 @@
 - [ACSL 2021-2022](https://www.acsl.org/) - Finalist
 - [SLINGSHOT](https://slingshotahead.com/) Verified
 - [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) - Top 500 (out of ~500k)
+- [USACO](http://www.usaco.org/) - Silver Division
 
 ## Experience
 - Director of Python Curriculum Development at Neuracode, an educational non-profit with a focus on machine-learning.
