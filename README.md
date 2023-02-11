@@ -6,9 +6,9 @@
 
 ## Technical Skills
 - Languages: Python, Java, and R
-- Libraries/Frameworks: Scikit-Learn (and data preprocessing libraries), Streamlit and Flask
-- Databases: Firebase(RTDB and Firestore), SQLite and PostgreSQL
-- Dev Tools: Git CLI, GitHub, Postman, VSCode and PyCharm
+- Libraries/Frameworks: Scikit-Learn, Pandas, Streamlit and Flask
+- Databases: Firebase(RTDB and Firestore), MongoDB, SQLite and PostgreSQL
+- Dev Tools: Git CLI, GitHub, Postman, Google Colab VSCode and PyCharm
 
 ## Hackathons and Competitive Programming
 - [HackUMBC 2021](https://devpost.com/software/adventure-addict) - 2nd Place
