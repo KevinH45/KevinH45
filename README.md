@@ -24,11 +24,8 @@
 
 ## Experience
 - Director of Python Curriculum Development at Neuracode, an educational non-profit with a focus on machine-learning.
-- Programmer for FRC 5113, a FIRST Robotics Team.
+- Programmer for a FIRST Robotics Team.
 
-## Contact Me:
-- Email me at greenbrown489@gmail.com
-- Send me a message on Discord at GreenBrown#1374
 
 ## GitHub Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KevinH45&show_icons=true&theme=synthwave">
