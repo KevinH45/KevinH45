@@ -23,7 +23,7 @@
 - [USACO](http://www.usaco.org/) - Silver Division
 
 ## Experience
-- Director of Python Curriculum Development at Neuracode, an educational non-profit with a focus on machine-learning.
+- Director of Python Curriculum Development at an educational non-profit with a focus on machine-learning.
 - Programmer for a FIRST Robotics Team.
 
 
