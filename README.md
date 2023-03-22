@@ -8,7 +8,7 @@
 - Languages: Python, Java, and R
 - Libraries/Frameworks: Scikit-Learn, Pandas, Streamlit and Flask
 - Databases: Firebase(RTDB and Firestore), MongoDB, SQLite and PostgreSQL
-- Dev Tools: Git CLI, GitHub, Postman, Google Colab VSCode and PyCharm
+- Dev Tools: Git CLI, GitHub, Postman, Google Colab, VSCode and PyCharm
 
 ## Hackathons and Competitive Programming
 - [HackUMBC 2021](https://devpost.com/software/adventure-addict) - 2nd Place
