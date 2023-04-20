@@ -24,7 +24,8 @@
 ## Experience
 - Director of Python Curriculum Development at an educational non-profit with a focus on machine-learning.
 - Programmer for a FIRST Robotics Team.
-- Interning at the University of Maryland, researching LLM question generation and the application of top-down learning into the modern education system.
+- Researching LLM question generation and top-down learning at the University of Maryland.
+- Leading the development of a tech nonprofit (contact me for opportunities).
 
 
 ## GitHub Stats
