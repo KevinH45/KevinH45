@@ -11,20 +11,20 @@
 - Dev Tools: Git CLI, GitHub, Postman, Google Colab, VSCode and PyCharm
 
 ## Hackathons and Competitive Programming
+- [USACO](http://www.usaco.org/) - Silver Division
+- [ACSL 2021-2022](https://www.acsl.org/) - Finalist 
 - [HackUMBC 2021](https://devpost.com/software/adventure-addict) - 2nd Place
 - [PrestoHacks 2021](https://devpost.com/software/in-season) - 1st Overall
 - [HocoHacks 2020](https://devpost.com/software/genetic-algorithm-for-student-grouping-gasg) - 1st Overall
 - [Give Back Hacks 3](https://devpost.com/software/local-connect) - Best Social Good Hack
 - [Spark2Code SpreadLOVE Hackathon](https://devpost.com/software/local-connect) - First Overall, Best Web Hosted Project
 - [Centennial Informatics Tournament 2022](https://cint.info/) - 2nd Place
-- [ACSL 2021-2022](https://www.acsl.org/) - Finalist
 - [SLINGSHOT](https://slingshotahead.com/) Verified
-- [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) - Top 500 (out of ~500k)
-- [USACO](http://www.usaco.org/) - Silver Division
 
 ## Experience
 - Director of Python Curriculum Development at an educational non-profit with a focus on machine-learning.
 - Programmer for a FIRST Robotics Team.
+- Interning at the University of Maryland, researching LLM question generation and the application of top-down learning into the modern education system.
 
 
 ## GitHub Stats
