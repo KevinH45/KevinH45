@@ -22,10 +22,14 @@
 - [SLINGSHOT](https://slingshotahead.com/) Verified
 
 ## Experience
-- Director of Python Curriculum Development at an educational non-profit with a focus on machine-learning.
+- Director of Python Curriculum Development at an educational nonprofit.
 - Programmer for a FIRST Robotics Team.
 - Researching LLM question generation and top-down learning at the University of Maryland.
 - Leading the development of a tech nonprofit (contact me for opportunities).
+
+## Contact Information
+- Email me at greenbrown489@gmail.com for any opportunities!
+- For more informal relations, direct message my Discord: GreenBrown#1374
 
 
 ## GitHub Stats
@@ -33,3 +37,4 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinH45&show_icons=true&theme=synthwave&layout=compact">
 
 ![](https://komarev.com/ghpvc/?username=KevinH45&style=for-the-badge&label=PROFILE+VIEWS)
+
