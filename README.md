@@ -6,7 +6,7 @@
 
 ## Technical Skills
 - Languages: Python, Java, and R
-- Libraries/Frameworks: Scikit-Learn, Pandas, Streamlit and Flask
+- Libraries/Frameworks: Scikit-Learn, PyTorch, Pandas, Streamlit and Flask
 - Databases: Firebase(RTDB and Firestore), MongoDB, SQLite and PostgreSQL
 - Dev Tools: Git CLI, GitHub, Postman, Google Colab, VSCode and PyCharm
 
