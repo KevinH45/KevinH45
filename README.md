@@ -24,11 +24,11 @@
 ## Experience
 - Director of Python Curriculum Development at an educational nonprofit.
 - Programmer for a FIRST Robotics Team.
-- Researching LLM question generation and top-down learning at the University of Maryland.
+- Researching LLM question generation and attention-guided active learning at the University of Maryland.
 - Leading the development of a tech nonprofit (contact me for opportunities).
 
 ## Contact Information
-- Email me at greenbrown489@gmail.com for any opportunities!
+- Email me at kevinhwang7550@gmail.com for any opportunities!
 - For more informal relations, direct message my Discord: GreenBrown#1374
 
 
