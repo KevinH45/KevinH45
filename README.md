@@ -12,7 +12,6 @@
 
 ## Contact Information
 - Email me at kevinhwang7550@gmail.com for any opportunities!
-- For more informal contact, direct message my Discord: GreenBrown
 
 
 ## GitHub Stats
